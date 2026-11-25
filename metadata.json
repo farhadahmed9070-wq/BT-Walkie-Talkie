@@ -1,0 +1,6 @@
+{
+  "name": "BT Walkie Talkie",
+  "description": "Offline two-device Bluetooth Classic RFCOMM walkie-talkie app with push-to-talk voice streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

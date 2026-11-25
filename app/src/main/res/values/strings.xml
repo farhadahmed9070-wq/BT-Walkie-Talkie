@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BT Walkie Talkie</string>
+    <string name="nav_comms">Comms</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_settings">Settings</string>
+    <string name="status_bt_enabled">BT ACTIVE</string>
+    <string name="status_bt_disabled">BT OFF</string>
+    <string name="status_bt_unavailable">NO BLUETOOTH</string>
+    <string name="action_scan_devices">Scan Devices</string>
+    <string name="action_stop_scan">Stop Scan</string>
+    <string name="action_enable_bt">Enable Bluetooth</string>
+    <string name="action_make_discoverable">Discoverable (120s)</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_reconnect">Reconnect</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_pair">Pair</string>
+    <string name="ptt_hold_to_talk">HOLD TO TALK</string>
+    <string name="ptt_transmitting">TRANSMITTING</string>
+    <string name="ptt_receiving">RECEIVING</string>
+    <string name="ptt_channel_busy">CHANNEL BUSY</string>
+    <string name="ptt_connect_required">CONNECT TO TALK</string>
+    <string name="ptt_mic_permission_required">GRANT MIC ACCESS</string>
+    <string name="privacy_banner">Offline RFCOMM • Encrypted Pairing • Zero Recording</string>
+    <string name="about_description">BT Walkie Talkie establishes a direct peer-to-peer Bluetooth Classic RFCOMM link between two paired Android devices. Audio is streamed live in memory without internet, servers, or saved recordings.</string>
+</resources>
